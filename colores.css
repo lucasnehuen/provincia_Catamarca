@@ -2,7 +2,7 @@ body {
     background-image: url('catamarca-argentina-turismo-20042021in2.jpg');
     background-position: center;
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
    
 }
 h1 {
@@ -14,6 +14,21 @@ p{
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
 }
 h2 {
+    background-color: burlywood;
     text-align: center;
     color: rgb(0, 47, 255);
+}
+h3 {
+    background-color: rgb(185, 53, 163);
+    text-align: center;
+}
+ul {
+    background-color: rgba(235, 6, 216, 0.76);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+}
+h4 {
+    background-color: brown;
+}
+tr {
+    background-color: aquamarine
 }
