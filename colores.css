@@ -13,7 +13,7 @@ p{
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
 }
 h2 {
-    background-color: burlywood;
+    background-color: rgba(196, 121, 23, 0.801);
     text-align: center;
     color: rgb(0, 47, 255);
 }
@@ -39,7 +39,11 @@ tr {
     text-align: center;
 }
 h5 {
-    background-color: brown;
+    background-color: rgba(102, 7, 255, 0.644);
+    text-align: center;
+}
+h6 {
+    background-color: rgba(255, 248, 220, 0.596);
     text-align: center;
 }
 
